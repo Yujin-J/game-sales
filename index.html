@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Play Store Game Revenue Rankings</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="page-header">
+        <div>
+          <p class="eyebrow">Google Play Revenue</p>
+          <h1>게임 매출 순위</h1>
+        </div>
+        <div class="sync-panel" aria-label="데이터 수집 상태">
+          <span class="sync-dot"></span>
+          <div>
+            <span class="sync-label">최종 수집</span>
+            <strong id="lastSyncedAt">-</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="market-toolbar" aria-label="국가별 순위 선택">
+        <div class="segmented-control" id="marketTabs" role="tablist" aria-label="국가">
+          <button class="market-tab is-active" type="button" role="tab" aria-selected="true" data-market="KR">
+            한국
+          </button>
+          <button class="market-tab" type="button" role="tab" aria-selected="false" data-market="JP">
+            일본
+          </button>
+          <button class="market-tab" type="button" role="tab" aria-selected="false" data-market="US">
+            미국
+          </button>
+        </div>
+        <div class="revenue-chip">
+          <span>매출 순위</span>
+          <strong>TOP 100</strong>
+        </div>
+      </section>
+
+      <section class="summary-grid" aria-label="요약">
+        <article class="summary-item">
+          <span>기준 국가</span>
+          <strong id="selectedMarketName">한국</strong>
+        </article>
+        <article class="summary-item">
+          <span>집계 게임</span>
+          <strong id="gameCount">100</strong>
+        </article>
+        <article class="summary-item">
+          <span>순위 상승</span>
+          <strong class="rise" id="riseCount">0</strong>
+        </article>
+        <article class="summary-item">
+          <span>순위 하락</span>
+          <strong class="fall" id="fallCount">0</strong>
+        </article>
+      </section>
+
+      <section class="rank-panel" aria-labelledby="rankTableTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow" id="activeMarketLabel">Korea</p>
+            <h2 id="rankTableTitle">100위 매출 순위</h2>
+          </div>
+          <label class="table-filter">
+            <span class="visually-hidden">게임 검색</span>
+            <input id="gameSearch" type="search" placeholder="게임 이름 검색" autocomplete="off" />
+          </label>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">순위</th>
+                <th scope="col">게임 이름</th>
+                <th scope="col">출시 국가</th>
+                <th scope="col">전일 대비</th>
+              </tr>
+            </thead>
+            <tbody id="rankingRows"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

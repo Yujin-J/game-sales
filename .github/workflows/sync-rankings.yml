@@ -1,0 +1,45 @@
+name: Sync Rankings
+
+on:
+  schedule:
+    # 21:00 Asia/Seoul is 12:00 UTC.
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: rankings-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - name: Sync rankings to Supabase and JSON
+        run: npm run sync:rankings -- --out dist/data
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          PLAY_STORE_API_URL: ${{ secrets.PLAY_STORE_API_URL }}
+          PLAY_STORE_API_KEY: ${{ secrets.PLAY_STORE_API_KEY }}
+      - run: npm run build:pages -- --preserve-data
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
