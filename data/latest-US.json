@@ -1,0 +1,607 @@
+{
+  "marketCode": "US",
+  "collectedAt": "2026-06-15T18:22:59.594Z",
+  "source": "google-play-scraper",
+  "rows": [
+    {
+      "rank": 1,
+      "gameName": "MONOPOLY GO!",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 2,
+      "gameName": "Roblox",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 3,
+      "gameName": "Royal Match",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 4,
+      "gameName": "Candy Crush Saga",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 5,
+      "gameName": "Gossip Harbor: Merge & Story",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 6,
+      "gameName": "Last War:Survival Game",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 7,
+      "gameName": "Kingshot",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 8,
+      "gameName": "Whiteout Survival",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 9,
+      "gameName": "Coin Master",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 10,
+      "gameName": "Royal Kingdom",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 11,
+      "gameName": "Evony: The King's Return",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 12,
+      "gameName": "Township",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 13,
+      "gameName": "Last Z: Survival Shooter",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 14,
+      "gameName": "Total Battle: War Strategy",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 15,
+      "gameName": "Pokémon GO",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 16,
+      "gameName": "Toon Blast",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 17,
+      "gameName": "Sword x Staff",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 18,
+      "gameName": "Disney Solitaire",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 19,
+      "gameName": "Jackpot Party Casino Slots",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 20,
+      "gameName": "Match Factory!",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 21,
+      "gameName": "Gardenscapes",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 22,
+      "gameName": "Pixel Flow!",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 23,
+      "gameName": "Call of Duty®: Mobile",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 24,
+      "gameName": "Bingo Blitz™️ - Bingo Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 25,
+      "gameName": "Candy Crush Soda Saga",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 26,
+      "gameName": "Lightning Link Casino Slots",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 27,
+      "gameName": "Cashman Casino Slots Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 28,
+      "gameName": "Fishdom",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 29,
+      "gameName": "Free Fire: Fire Kickoff",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 30,
+      "gameName": "Homescapes",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 31,
+      "gameName": "Tasty Travels: Merge Game",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 32,
+      "gameName": "Lotsa Slots - Casino Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 33,
+      "gameName": "Wuthering Waves × Cyberpunk",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 34,
+      "gameName": "Dice Dreams™️",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 35,
+      "gameName": "All in Hole: Black Hole Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 36,
+      "gameName": "Dark War Survival",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 37,
+      "gameName": "GODDESS OF VICTORY: NIKKE",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 38,
+      "gameName": "Yarn Loop",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 39,
+      "gameName": "Last Asylum: Plague",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 40,
+      "gameName": "Cash Frenzy™ - Casino Slots",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 41,
+      "gameName": "Travel Town - Merge Adventure",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 42,
+      "gameName": "Merge Cooking®",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 43,
+      "gameName": "Clash of Clans",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 44,
+      "gameName": "Quick Hit Casino Slots Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 45,
+      "gameName": "Coin Master - Board Adventure",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 46,
+      "gameName": "Slots: Heart of Vegas Casino",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 47,
+      "gameName": "Genshin Impact",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 48,
+      "gameName": "RAID: Shadow Legends",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 49,
+      "gameName": "Flambé®: Merge & Cook",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 50,
+      "gameName": "Puzzles & Survival",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 51,
+      "gameName": "Pokémon TCG Pocket - Card Game",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 52,
+      "gameName": "Bingo Voyage - Live Bingo Game",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 53,
+      "gameName": "Solitaire Grand Harvest",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 54,
+      "gameName": "MapleStory : Idle RPG",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 55,
+      "gameName": "Matching Story - Puzzle Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 56,
+      "gameName": "Puzzles & Chaos: Frozen Castle",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 57,
+      "gameName": "Fate/Grand Order (English)",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 58,
+      "gameName": "Jackpot World™ - Slots Casino",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 59,
+      "gameName": "Mystery Town: Merge Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 60,
+      "gameName": "Bingo Frenzy™-Live Bingo Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 61,
+      "gameName": "Magic Sort!",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 62,
+      "gameName": "Slotomania™ Slots Casino Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 63,
+      "gameName": "Golf Clash - Golfing Simulator",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 64,
+      "gameName": "PUBG MOBILE",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 65,
+      "gameName": "Toy Blast",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 66,
+      "gameName": "Love and Deepspace",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 67,
+      "gameName": "Isekai:Slow Life",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 68,
+      "gameName": "June's Journey: Hidden Objects",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 69,
+      "gameName": "Minecraft: Dream it, Build it!",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 70,
+      "gameName": "Piggy Kingdom",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 71,
+      "gameName": "DRAGON BALL LEGENDS",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 72,
+      "gameName": "Top Heroes: Kingdom Saga",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 73,
+      "gameName": "WSOP Poker: Texas Holdem Game",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 74,
+      "gameName": "Castle Busters",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 75,
+      "gameName": "Jackpot Master™ Slots - Casino",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 76,
+      "gameName": "Marble Sort! - Color Puzzle",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 77,
+      "gameName": "Tiki Solitaire TriPeaks",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 78,
+      "gameName": "NYT Games: Wordle & Crossword",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 79,
+      "gameName": "Clash of Critters",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 80,
+      "gameName": "Seaside Escape®: Merge & Story",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 81,
+      "gameName": "Cash Club Casino - Vegas Slots",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 82,
+      "gameName": "Match Villains",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 83,
+      "gameName": "POP! Slots™",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 84,
+      "gameName": "Merge Mansion: Puzzles & Story",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 85,
+      "gameName": "Merge Dragons!",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 86,
+      "gameName": "Domino Dreams™",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 87,
+      "gameName": "Brawl Stars",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 88,
+      "gameName": "Big Fish Casino - Slots Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 89,
+      "gameName": "Match Masters",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 90,
+      "gameName": "Animals & Coins Adventure Game",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 91,
+      "gameName": "DRAGON BALL Z DOKKAN BATTLE",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 92,
+      "gameName": "Yahtzee® With Buddies Dice Fun",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 93,
+      "gameName": "Angry Birds 2",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 94,
+      "gameName": "Gold Fish Casino Slot Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 95,
+      "gameName": "Rise of Castles: Ice and Fire",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 96,
+      "gameName": "88 Fortunes™ Casino Slot Games",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 97,
+      "gameName": "EA SPORTS FC Soccer Mobile 26",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 98,
+      "gameName": "Empires & Puzzles: Match-3 RPG",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 99,
+      "gameName": "Invincible: Guarding the Globe",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    },
+    {
+      "rank": 100,
+      "gameName": "Star Wars™: Galaxy of Heroes",
+      "releaseCountry": "미확인",
+      "rankChange": 0
+    }
+  ]
+}
